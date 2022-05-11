@@ -2,4 +2,6 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/GOGOYS)](https://github.com/GOGOYS)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/GOGOYS)                    
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gogoys)](https://github.com/GOGOYS)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=gogoys&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)                    
